@@ -9,7 +9,8 @@ module.exports = {
         lightGray: '#707070',
         dividerGray: '#EDEDED',
         backgroundGray: '#F6F7F8',
-        activeTeal: '#01F0D0'
+        activeTeal: '#01F0D0',
+        activeSeaGreen: '#D8FCF7'
       },
       fontFamily: {
         sans: ['Manrope', 'sans-serif']
